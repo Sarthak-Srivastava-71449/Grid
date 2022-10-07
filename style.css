@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: cornsilk;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+}
+
+.grid-items Image-1{
+  size: 7px;
+}
+
+.img7{
+  size: 0px;
+}
